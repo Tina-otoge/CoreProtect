@@ -415,7 +415,7 @@ public class ConfigHandler extends Queue {
 
     /**
      * Unified method to reload cache from database when DATABASE_LOCK is false (multi-server setup)
-     * 
+     *
      * @param type
      *            The type of cache to reload
      * @param name
